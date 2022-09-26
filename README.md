@@ -15,6 +15,7 @@ orientation of the condition to their body part.
 5. P_radius 
 6. S_degree
 7. Class
+
 • PROJECT OBJECTIVE: Demonstrate the ability to fetch, process and leverage data to generate useful predictions 
 by training Supervised Learning algorithms
 
@@ -42,5 +43,6 @@ with same budget as per last campaign.
 12. InternetBanking: if the customer uses internet banking.
 13. CreditCard: if the customer uses bank’s credit card.
 14. LoanOnCard: if the customer has a loan on credit card.
+
 • PROJECT OBJECTIVE: Build an AIML model to perform focused marketing by predicting the potential customers who will 
 convert using the historical dataset.
